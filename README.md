@@ -14,6 +14,6 @@ This script demonstrates basic user interaction, date manipulation, and age comp
 
 chmod +x Age_calculator.sh
 
-./age_calculator.sh
+./Age_calculator.sh
 
 
