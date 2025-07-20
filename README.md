@@ -11,6 +11,9 @@ This script demonstrates basic user interaction, date manipulation, and age comp
 - Clean and minimal Bash scripting.
 
 ## * Usage
+
 chmod +x age_calculator.sh
+
 ./age_calculator.sh
+
 
